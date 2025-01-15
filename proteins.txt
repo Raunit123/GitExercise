@@ -3,4 +3,4 @@ Lysozyme 	Human 		LYSC_HUMAN 	P61626
 PFKM 		Human		PFKAM_HOUSE	P08237
 Pfkm		Mouse 		PFKAM_MOUSE	P47857
 Pfkm		Mouse 		PFKAM_MOUSE	P47857
-I make a mistake!
+
